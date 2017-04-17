@@ -5,7 +5,7 @@ communicating. It currently features two methods of use:
 and the script will be run in a separate process, with anything on
 stdout returned. dblEscape() will insert escape characters into a string
 literal so that it can be inserted into a subscript correctly.
-* RPyC: Doublepy features a simple wrapper for RPyC to run multiple
+* RPyC: doublepy features a simple wrapper for RPyC to run multiple
 different Python interpreters on the same machine. RPyC is designed for
 communication between Python on different machines and allows flexible
 interaction with objects across environments. This is more powerful, but
