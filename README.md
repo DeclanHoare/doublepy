@@ -32,3 +32,4 @@ the same program.)
 back to the client rather than having to use getOpenPort(). The current
 way has a race condition and just sucks in general.
 * Fix pygimp and wkinter on Python 3?
+* Add setup.py
